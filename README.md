@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# npx-pokemon-client
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+npx-pokemon-client is a React.js based app to display Pokémon via a RESTful API found [here.](https://github.com/DanC12/npx-pokemon-server)
 
 ## Available Scripts
 
